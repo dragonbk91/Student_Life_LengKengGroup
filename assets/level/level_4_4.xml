@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level wvelocityth="720" height="480">	
+    <ScoreRequirements x="300"  type="ScoreRequirements"/>	
+    <entity x="1" y="0" type="time" velocity="0"/>
+    
+	<entity x="0" y="1" type="student" velocity = "500"/>
+	<entity x="0" y="3" type="killer" velocity="250"/>	
+	<entity x="7" y="3" type="killer" velocity="250"/>
+	<entity x="4" y="3" type="killer" velocity="250"/>
+	<entity x="3" y="2" type="killer" velocity="250"/>
+	
+	<entity x="5" y="1" type="book" velocity="0"/>
+	<entity x="4" y="1" type="money" velocity="0"/>
+	<entity x="4" y="1" type="gift" velocity="0"/>
+	<entity x="3" y="10" type="shoes" velocity="0"/>
+	<entity x="1" y="20" type="clock" velocity="0"/>
+	
+	<entity x="0" y="0" type="block" velocity = "0" />		
+	<entity x="1" y="0" type="block" velocity = "0" />
+	<entity x="8" y="0" type="block" velocity = "0" />
+	<entity x="3" y="1" type="block" velocity = "0" />
+	<entity x="4" y="1" type="block" velocity = "0" />
+	<entity x="6" y="1" type="block" velocity = "0" />
+	<entity x="1" y="2" type="block" velocity = "0" />
+	<entity x="7" y="2" type="block" velocity = "0" />
+	<entity x="3" y="3" type="block" velocity = "0" />
+	<entity x="5" y="3" type="block" velocity = "0" />	
+	<entity x="1" y="4" type="block" velocity = "0" />
+	<entity x="7" y="4" type="block" velocity = "0" />						
+</level>
+

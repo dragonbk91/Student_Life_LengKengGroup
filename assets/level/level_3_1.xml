@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level wvelocityth="720" height="480">	
+    <ScoreRequirements x="300"  type="ScoreRequirements"/>
+    <entity x="1" y="0" type="time" velocity="0"/>		
+	
+	<entity x="0" y="0" type="student" velocity = "400"/>
+	<entity x="8" y="3" type="girl" velocity = "250"/>	
+	
+	<entity x="5" y="1" type="book" velocity="0"/>
+	<entity x="2" y="3" type="money" velocity="0"/>
+	<entity x="2" y="5" type="gift" velocity="0"/>
+	<entity x="1" y="30" type="shoes" velocity="0"/>
+	<entity x="1" y="35" type="clock" velocity="0"/>
+	
+	<entity x="3" y="0" type="block" velocity = "0" />		
+	<entity x="4" y="0" type="block" velocity = "0" />
+	<entity x="6" y="0" type="block" velocity = "0" />
+	<entity x="7" y="0" type="block" velocity = "0" />
+	
+	<entity x="1" y="2" type="block" velocity = "0" />
+	<entity x="2" y="2" type="block" velocity = "0" />
+	<entity x="4" y="2" type="block" velocity = "0" />
+	<entity x="6" y="2" type="block" velocity = "0" />
+	<entity x="7" y="2" type="block" velocity = "0" />
+		
+	<entity x="6" y="3" type="block" velocity = "0" />
+	
+	<entity x="8" y="4" type="block" velocity = "0" />		
+	<entity x="0" y="4" type="block" velocity = "0" />
+	<entity x="2" y="4" type="block" velocity = "0" />
+	<entity x="4" y="4" type="block" velocity = "0" />
+	
+	<entity x="1" y="0" type="seesaw" velocity = "0" />
+	
+	<entity x="2" y="3" type="thunder1" velocity = "0" />
+	<entity x="2" y="3" type="thunder2" velocity = "0" />
+	<entity x="2" y="3" type="thunder3" velocity = "0" />				
+</level>
+

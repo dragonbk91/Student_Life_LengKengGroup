@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Student Life</string>
+    <string name="menu_button">MENU</string>
+    <string name="exit_button">EXIT</string>
+    <string name="resume_button">RESUME</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="720" height="480">	    
+    <ScoreRequirements x="150"  type="ScoreRequirements"/>	
+    <entity x="1" y="0" type="time" velocity="0"/>	
+	
+	<entity x="8" y="4" type="teacher" velocity="350"/>
+	<entity x="0" y="0" type="teacher" velocity="350"/>
+	<entity x="5" y="2" type="teacher" velocity="350"/>
+	<entity x="4" y="2" type="student" velocity="450"/>		
+	
+	<entity x="5" y="1" type="book" velocity="0"/>
+	<entity x="2" y="2" type="money" velocity="0"/>
+	<entity x="2" y="4" type="gift" velocity="0"/>
+	<entity x="1" y="20" type="shoes" velocity="0"/>
+	<entity x="1" y="25" type="clock" velocity="0"/>
+	
+    <entity x="1" y="1" type="table" velocity="0"/>
+	<entity x="1" y="3" type="table" velocity="1"/>
+	<entity x="3" y="1" type="table" velocity="2"/>
+	<entity x="3" y="3" type="table" velocity="3"/>
+	<entity x="5" y="1" type="table" velocity="0"/>
+	<entity x="5" y="3" type="table" velocity="1"/>
+	<entity x="7" y="3" type="table" velocity="2"/>
+	<entity x="7" y="1" type="table" velocity="3"/>
+</level>
+

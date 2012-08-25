@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level wvelocityth="720" height="480">	
+    <ScoreRequirements x="300"  type="ScoreRequirements"/>		
+    <entity x="1" y="0" type="time" velocity="0"/>	    
+    
+    <entity x="3" y="2" type="student" velocity = "500"/>
+	<entity x="3" y="0" type="carUp" velocity = "200"/>
+	<entity x="4" y="0" type="carLeft" velocity = "350"/>
+	<entity x="5" y="0" type="carRight" velocity = "350"/>
+	<entity x="6" y="0" type="carDown" velocity = "200"/>
+    
+	<entity x="4" y="1" type="book" velocity="0"/>
+	<entity x="3" y="2" type="money" velocity="0"/>
+	<entity x="2" y="3" type="gift" velocity="0"/>
+	<entity x="2" y="15" type="shoes" velocity="0"/>
+	<entity x="2" y="20" type="clock" velocity="0"/>
+	
+	<entity x="1" y="0" type="house" velocity = "0"/>
+	<entity x="3" y="0" type="house" velocity = "0" />
+	<entity x="5" y="0" type="house" velocity = "0" />	
+	<entity x="7" y="0" type="house" velocity = "0" />
+	
+	<entity x="1" y="2" type="house" velocity = "0" />
+	<entity x="4" y="2" type="house" velocity = "0" />
+	<entity x="7" y="2" type="house" velocity = "0" />	
+	
+	<entity x="1" y="4" type="house" velocity = "0"/>
+	<entity x="3" y="4" type="house" velocity = "0" />
+	<entity x="5" y="4" type="house" velocity = "0" />	
+	<entity x="7" y="4" type="house" velocity = "0" />	
+</level>
